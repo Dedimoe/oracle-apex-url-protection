@@ -22,7 +22,12 @@ The *Session State Projection* page appears.
 
 8. Otherwise, navigate to the appropriate page or item attributes page and configure the *Security attributes*.
 
-```Tip:
-
-To disable Session State Protection, perform the same steps again, but select Disabled instead of Enabled. Disabling Session State Protection does not change existing security attribute settings, but those attributes are ignored at runtime.
 ```
+Tip:
+
+To disable Session State Protection, perform the same steps again, 
+but select Disabled instead of Enabled. 
+Disabling Session State Protection does not change existing security 
+attribute settings, but those attributes are ignored at runtime.
+```
+
